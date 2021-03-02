@@ -1,16 +1,13 @@
-import React from 'react';
+import React, { useContext } from 'react';
 import ReactDOM from 'react-dom';
 import './App.css'
+import TransactionContext from './transContext'
 
 
-function  ExpensesT() { 
+ function  ExpensesT() { 
 
-let transaction = [  
-       {   amount:500,  desc: 'Cash'},
-       {   amount:-40,  desc: 'Cash'},
-       {   amount:-200, desc: 'Camera'}
-]
 
+let transactions = useContext(TransactionContext)
     
       return <div className="container"> 
           <h1 className="text-center">Expenses Tracker</h1> 
