@@ -1,18 +1,19 @@
 @import url('https://fonts.googleapis.com/css2?family=PT+Sans+Narrow:wght@700&display=swap');
 
 .navigation {
-    margin: 10px;
-    padding: 20px;
+    /* margin: 10px;
+    padding: 20px; */
     display: flex;
+    margin: 5px;
     align-items: center;
     justify-content: space-between;
     font-family: 'PT Sans Narrow', sans-serif;
     font-size: 22px;
 }
 
-.navigation span {
-    margin-top: 20px;
-}
+/* .navigation span {
+    margin-top: 10px;
+} */
 
 .navigation > span > a {
     text-decoration: none;

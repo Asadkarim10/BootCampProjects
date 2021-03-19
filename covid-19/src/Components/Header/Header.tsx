@@ -6,7 +6,7 @@ const Header = () => {
         <div className={styles.head}>
             <div className={styles.headText}>
                 <h4>210+ countries are effected by</h4>
-                <h1>corona</h1>
+                <h1>Corona</h1>
                 <h6>The Virus was first reported in wuhan, Hubei China on 17 November 2019, and on 11 March the world health organization (WHO) declared the outbreak a pandemic.</h6>
                 <a href="./">About Covid-19 </a>
             </div>

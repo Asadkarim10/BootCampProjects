@@ -24,7 +24,7 @@ function App() {
 
   return (
     <div className="App">
-      <Header />
+       <Header /> 
       <CountryPicker handleCountryChange={handleCountryChange} />
       <Cards data={fetchedData} />
       <Charts data={fetchedData} country={country} />

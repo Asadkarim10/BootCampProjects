@@ -18,7 +18,7 @@ const Nav = () => {
 
     const navigationDisplay = () => {
         //@ts-ignore
-        show.current.style.left = '120%';
+         show.current.style.left = '220%';
         display = false;
     }
     return (
