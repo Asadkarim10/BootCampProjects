@@ -1,10 +1,12 @@
 import React from 'react';
 
 function Home() {
+
   return (
-    <div >
-    <h2>Home</h2>
-    </div>
+	<div>
+		<h1>Welcome to the shoe-store</h1>
+		<h3>Beautiful design, lighter than air and extra comfortable.</h3>
+	</div>
   );
 }
 
