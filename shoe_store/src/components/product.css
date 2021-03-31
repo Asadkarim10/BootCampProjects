@@ -1,0 +1,27 @@
+.productContainer {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .productContainer > .link {
+    text-align: center;
+    width: 400px;
+    box-shadow: 0 0 10px #463636;
+    margin: 10px;
+  }
+  .links{
+      width: 500px;
+      flex-direction: row;
+      box-shadow: 0 0 8px gray;
+      margin: 5;
+      text-align: center;
+  }
+  h4 {
+      align-self: center;
+      text-align: center;
+
+  }
+
+.boxs {
+    display: flex;
+    justify-content: space-around;
+}

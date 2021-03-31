@@ -1,6 +1,8 @@
 import React from 'react';
 import { useParams } from 'react-router-dom';
 import Shoes from './../shoes.json';
+import './product.css';
+
 
 function ProductItem() {
     const { id } = useParams();
@@ -10,12 +12,22 @@ function ProductItem() {
         return <h2>Product Not Found!</h2>
 
     return (
-        <div>
+        <div >
             <h1>Welcome to Product Item</h1>
-            <div className="link">
+            <div className="boxs" >
+            <div className="links">
                 <h4>{shoe.name}</h4>
-                <img src={shoe.img} height={500} alt="shoe" />
+                <img src={shoe.img}  height={500} alt="shoe" />
                 <h4>This shoe is {shoe.price} only. </h4>
+
+            </div>
+
+            <div className="links">
+                <h4>{shoe.name}</h4>
+                <img src={shoe.img}  height={500} alt="shoe" />
+                <h4>This shoe is {shoe.price} only. </h4>
+
+            </div>
             </div>
         </div>
     );

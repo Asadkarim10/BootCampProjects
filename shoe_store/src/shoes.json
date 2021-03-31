@@ -17,6 +17,12 @@
       "img":
         "https://secure-images.nike.com/is/image/DotCom/CK6637_104_A_PREM?$SNKRS_COVER_WD$&align=0,1"
     },
+    "air1-jordan-1-zoom-racer-blue": {
+      "name": "RACER BLUE",
+      "price":"500$",
+      "img":
+        "https://secure-images.nike.com/is/image/DotCom/CK6637_104_A_PREM?$SNKRS_COVER_WD$&align=0,1"
+    },
     "air-jordan-3-valor-blue1": {
       "name": "VALOUR BLUE",
       "price":"200$",
@@ -29,9 +35,100 @@
       "img":
         "https://secure-images.nike.com/is/image/DotCom/CV3042_001_A_PREM?$SNKRS_COVER_WD$&align=0,1"
     },
-    "air-jordan-1-zoom-racer-blue3": {
+    "air2-jordan-1-zoom-racer-blue3": {
       "name": "RACER BLUE",
+      "price":"400$",
       "img":
         "https://secure-images.nike.com/is/image/DotCom/CK6637_104_A_PREM?$SNKRS_COVER_WD$&align=0,1"
+    },
+    "air3-jordan-1-zoom-racer-blue3": {
+      "name": "RACER BLUE",
+      "price":"400$",
+      "img":
+        "https://secure-images.nike.com/is/image/DotCom/CK6637_104_A_PREM?$SNKRS_COVER_WD$&align=0,1"
+    },
+    "air4-jordan-1-zoom-racer-blue3": {
+      "name": "RACER BLUE",
+      "price":"400$",
+      "img":
+        "https://secure-images.nike.com/is/image/DotCom/CK6637_104_A_PREM?$SNKRS_COVER_WD$&align=0,1"
+    },
+    "air5-jordan-1-zoom-racer-blue3": {
+      "name": "RACER BLUE",
+      "price":"400$",
+      "img":
+        "https://secure-images.nike.com/is/image/DotCom/CK6637_104_A_PREM?$SNKRS_COVER_WD$&align=0,1"
+    },
+    "air-jordan-1-zoom-racer-blue3": {
+      "name": "RACER BLUE",
+      "price":"400$",
+      "brand": "Frye",
+      "img":
+      "https://cdn.shopify.com/s/files/1/0260/3241/files/2L4A1548-1.jpg" 
+    },
+    "air66-jordan-1-zoom-racer-blue3":
+    {
+      "name": "Delsie Stella",
+      "brand": "Clarks",
+      "price": 139.95,
+      "color": "black",
+      "img": "http://s2.shoes.com/images/br013/womens-clarks-delsie-stella-black-leather-434645_200_45.jpg"
+    }, 
+    "air67-jordan-1-zoom-racer-blue3":
+    {
+      "name": "Edell",
+      "brand": "Bandolino",
+      "price": 58.95,
+      "color": "black",
+      "img": "http://s2.shoes.com/images/br291/womens-bandolino-edell-black-480015_200_45.jpg"
+    }, 
+    "air68-jordan-1-zoom-racer-blue3":
+    {
+      "name": "Haven",
+      "brand": "Aerosoles",
+      "price": 57.99,
+      "color": "brown",
+      "img": "http://s1.shoes.com/images/br023/womens-aerosoles-haven-taupe-combo-485752_120_45.jpg"
+    }, 
+    "air69-jordan-1-zoom-racer-blue3":
+
+    {
+      "name": "Jessica Bohemia Slide",
+      "brand": "Frye",
+      "price": 183.99,
+      "color": "brown",
+      "img": "http://s1.shoes.com/images/br065/womens-frye-jessica-bohemian-slide-brown-leather-454794_120_45.jpg"
+    }, 
+    "air70-jordan-1-zoom-racer-blue3":
+    {
+      "name": "Gelata Fresca",
+      "brand": "Clarks",
+      "price": 139.95,
+      "color": "brown",
+      "img": "https://www.jordans2019cheap.com/wp-content/uploads/2018/06/Nike-Air-Force-1-Low-Just-Do-It-Black-White-Orange-2.jpg"
+    }, 
+    "air71-jordan-1-zoom-racer-blue3":
+    {
+      "name": "Estee",
+      "brand": "Trotters",
+      "price": 129.95,
+      "color": "purple",
+      "img":         "https://secure-images.nike.com/is/image/DotCom/CT8532_104_A_PREM?$SNKRS_COVER_WD$&align=0,1"
+
+    },
+    "air75-jordan-1-zoom-racer-blue3":
+ 
+    {
+      "name": "Simone",
+      "brand": "Wanted",
+      "price": 39.95,
+      "color": "red",
+      "img":"https://www.impactshoes.com/sites/default/files/styles/zoom_fiche_produit/public/nike-air-force-1-just-do-it-blanc04.jpg"
     }
+
+     
   }
+  
+  
+
+  

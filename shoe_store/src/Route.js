@@ -36,19 +36,16 @@ function RouteConfig() {
           <div>
           <AppBar position="static">
      <Toolbar>
-          <IconButton edge="start" className={classes.menuButton} color="inherit" aria-label="menu">
-    
-          </IconButton>
           <Typography variant="h6" className={classes.title}>
-          Any Seasons Shoe Store
+          All Seasons Shoe Store
           </Typography>
-          
+          <NavBar />
         </Toolbar>
       </AppBar>
 
           </div>
           
-          <NavBar />
+          
             <Switch>
                 <Route exact path="/" component={Home}/>
                 <Route path="/about" component={About}/>
