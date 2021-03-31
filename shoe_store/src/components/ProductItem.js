@@ -15,6 +15,7 @@ function ProductItem() {
             <div className="link">
                 <h4>{shoe.name}</h4>
                 <img src={shoe.img} height={500} alt="shoe" />
+                <h4>This shoe is {shoe.price} only. </h4>
             </div>
         </div>
     );
