@@ -3,7 +3,7 @@ import React from 'react';
 function About() {
 
   return (
-	<div>
+<div style={{ textAlign:"center" }}>
 		<h1>Welcome to About</h1>
 		<p style={{ lineHeight: '1.4' }}>
         Simple Shoes is your place for athletic and easygoing shoes for the

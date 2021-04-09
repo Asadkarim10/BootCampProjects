@@ -31,13 +31,14 @@ function RouteConfig() {
 
 
   return (
-	<div>
+		<div style={{  height:1000 ,   backgroundImage: "url(" + "https://cdn-5f9fcb86c1ac19088c944ba8.closte.com/wp-content/uploads/2013/07/Out-of-the-Box-The-Rise-of-Sneaker-Culture_Karim-Rashid-7.jpg" + ")",
+	 }}>
         <Router>
-          <div>
+          <div style={{backgroundColor: "lightblue"}}>
           <AppBar position="static">
      <Toolbar>
           <Typography variant="h6" className={classes.title}>
-          All Seasons Shoe Store
+          Karims Shoe Store
           </Typography>
           <NavBar />
         </Toolbar>

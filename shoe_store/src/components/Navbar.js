@@ -11,12 +11,10 @@ function NavBar() {
 
   return (
 	<div>
-        <Link to="/"> Home </Link>
-       
-        <Link to="/about"
-        className={pathname.includes('about') ? 'active' : ''}
+        <Link to="/" style={{color: "white"}} > Home </Link>
+        <Link to="/about" style={{color: "white"}}  className={pathname.includes('about') ? 'active' : ''}
         > About </Link>
-        <Link to="/product"> Product </Link>
+        <Link to="/product" style={{color: "white"}}> Product </Link>
 	</div>
   );
 }
