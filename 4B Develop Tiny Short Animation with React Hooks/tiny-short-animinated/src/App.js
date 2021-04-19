@@ -3,15 +3,9 @@ import './App.css';
 
 function App() {
 
-  var nommingCake = document.getElementById('aer').animate(
-    [
-      { transform: 'translateY(0)' },
-      { transform: 'translateY(-80%)' }
-    ], {
-      fill: 'forwards',
-      easing: 'steps(4, end)',
-      duration: aliceChange.effect.getComputedTiming().duration / 2
-    });
+  
+
+
 
 
   return (
